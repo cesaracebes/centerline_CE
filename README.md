@@ -3,6 +3,8 @@
 
 This repository contains the code necessary to replicate the experiments in our paper _The centerline-Cross Entropy loss for vessel-like structure segmentation: better topology consistency without sacrificing accuracy_. 
 
+[poster](https://github.com/cesaracebes/centerline_CE/blob/main/MICCAI_2024_clCE.pdf)
+
 ## For the nnUNet-based coronary artery segmentation experiments:
 
 ### Code
